@@ -21,9 +21,9 @@ To extract import declaration information, follow these steps:
 
 To extract export declaration information, follow these steps:
 
-1.Place the ExportPrint.pdf file in the folder where the script is located.
-2.Open your terminal or command prompt.
-3.Run the following command:
+1. Place the ExportPrint.pdf file in the folder where the script is located.
+2. Open your terminal or command prompt.
+3. Run the following command:
 
  ```bash
    python extract_multiple_export_contract.py
