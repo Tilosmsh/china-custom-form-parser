@@ -27,6 +27,7 @@ To extract export declaration information, follow these steps:
 
  ```bash
    python extract_multiple_export_contract.py
+   ```
 
 This script simplifies the process of extracting crucial data from customs declaration forms, enhancing the efficiency of data management for your organization.
 Please feel free to reach out if you have any questions or need further assistance.
